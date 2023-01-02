@@ -57,6 +57,14 @@ Steam is home to some great idle and incremental games and is probably the best 
 
 The idle and incremental Hall of Fame. These games are pillars of the genre and are widely regarded as the best of the best. These games are must-plays for anyone remotely interested in idle and incremental games.
 
-| Title | Free? | SFW? | Source |
-| :---: | :---: | :--: | :----: |
-| Cookie Clicker | Yes (Web) / No (Steam) | Yes | Classic: http://orteil.dashnet.org/experiments/cookie/ <br /> Web: https://orteil.dashnet.org/cookieclicker/ <br /> Steam: https://store.steampowered.com/app/1454400/Cookie_Clicker/ |
+| Title | Free? | SFW? | Description | Source |
+| :---: | :---: | :--: | :---------- | :----- |
+| Cookie Clicker | Yes (Web) / No (Steam) | Yes | {Placeholder Description} | Classic: http://orteil.dashnet.org/experiments/cookie/ <br /> Web: https://orteil.dashnet.org/cookieclicker/ <br /> Steam: https://store.steampowered.com/app/1454400/Cookie_Clicker/ |
+| Clicker Heroes | Yes | Yes | {Placeholder Description} | Steam: https://store.steampowered.com/app/363970/Clicker_Heroes/ |
+| Crush Crush | Free to Play (DLC optional) | No (DLC only) | {Placeholder Description} | Steam: https://store.steampowered.com/app/459820/Crush_Crush/ |
+| NGU Idle | Yes | Yes | {Placeholder Description} | Steam: https://store.steampowered.com/app/1147690/NGU_IDLE/ |
+| AdVenture Capitalist | Free to Play (In-App Purchases optional) | Yes | {Placeholder Description} | Steam: https://store.steampowered.com/app/346900/AdVenture_Capitalist/ <br /> Mobile: https://play.google.com/store/apps/details?id=com.kongregate.mobile.adventurecapitalist.google&hl=en_US&gl=US&pli=1 |
+
+
+
+
