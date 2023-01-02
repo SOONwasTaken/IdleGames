@@ -64,7 +64,11 @@ The idle and incremental Hall of Fame. These games are pillars of the genre and 
 | Crush Crush | Free to Play (DLC optional) | No (DLC only) | {Placeholder Description} | Steam: https://store.steampowered.com/app/459820/Crush_Crush/ |
 | NGU Idle | Yes | Yes | {Placeholder Description} | Steam: https://store.steampowered.com/app/1147690/NGU_IDLE/ |
 | AdVenture Capitalist | Free to Play (In-App Purchases optional) | Yes | {Placeholder Description} | Steam: https://store.steampowered.com/app/346900/AdVenture_Capitalist/ <br /> Mobile: https://play.google.com/store/apps/details?id=com.kongregate.mobile.adventurecapitalist.google&hl=en_US&gl=US&pli=1 |
-
+| A Dark Room | Yes | Yes | {Placeholder Description} | Web: https://adarkroom.doublespeakgames.com/ |
+| Candy Box! | Yes | Yes | {Placeholder Description} | Web: https://candybox2.github.io/candybox/ |
+| Crank | Yes | Yes | {Placeholder Description} | Web: https://faedine.com/games/crank/b39/ |
+| Kittens Game | Yes | Yes | {Placeholder Description} | Web: https://kittensgame.com/web/ |
+| Antimatter Dimensions | Yes | Yes | {Placeholder Description} | Web: https://ivark.github.io/AntimatterDimensions/ <br /> Steam: https://store.steampowered.com/app/1399720/Antimatter_Dimensions/ |
 
 
 
