@@ -70,5 +70,90 @@ The idle and incremental Hall of Fame. These games are pillars of the genre and 
 | Kittens Game | Yes | Yes | {Placeholder Description} | Web: https://kittensgame.com/web/ |
 | Antimatter Dimensions | Yes | Yes | {Placeholder Description} | Web: https://ivark.github.io/AntimatterDimensions/ <br /> Steam: https://store.steampowered.com/app/1399720/Antimatter_Dimensions/ |
 
+# TODO
 
-
+- Dodeca Dragons
+- Alkahistorian
+- Prestige Tree
+- Incremental Mass Rewritten
+- Endless Stairwell
+- Anti-Idle
+- Ordinal Markup
+- Derivative Clicker
+- Synergism
+- Bit Burner
+- Orb of Creation
+- Tap Ninja
+- Reinhardt's House
+- LNGI Incremental
+- True Infinity Alpha & Beta
+- 1 Generator, Infinite Upgrades
+- Incremental Unlimited 1 & 2
+- Unscaled Incremental
+- Tetrational Madness
+- Exponential Madness
+- Incremental Adventures
+- Infinite Layers
+- Calculator Evolution
+- True Exponential
+- Yoshi Portal
+- Yet Another Merge Game
+- Scrap Clicker ++
+- Insane Idle
+- Universe Shrinker
+- Idle Mine: Remix
+- Swarm Simulator
+- Spiral Clicker
+- Artist Idle
+- Blush Blush
+- Cell to Singularity
+- Coin Flipper
+- DPS Idle
+- Farmer Against Potatoes Idle
+- Idle Bouncer
+- Idle Champions of the Forgotten Realms
+- Idle Monster TD
+- Idle Research
+- Idle Slayer
+- Idle Spiral
+- Incremental Cubes
+- Kiwi Clicker
+- Leaf Blower Revolution
+- Mr. Mine
+- NGU Industries
+- Pacifish
+- Pick Crafter
+- Pickle Clicker
+- Pincremental
+- Realm Revolutions
+- Sakura Clicker
+- shapez
+- Time Clickers
+- Wizard and Minion Idle
+- Clickpocolypse 2
+- Melvor Idle
+- Human-Powered Spacecraft
+- Zero Idle
+- Grim Clicker
+- Spaceplan
+- Crusaders of the Lost Idols
+- Neverending Legacy
+- Evolve Idle
+- Speedrunner Simulator Idle
+- Godville Endgame: Singularity
+- CivClicker
+- Soda Dungeon 1+2
+- Coinbox Hero
+- Bitcoin Billionaire
+- Clickraid 1+2
+- Firestone Idle RPG
+- Progress Quest
+- Universal Paperclips
+- Distance incremental
+- Idle Wizard
+- Legends of Idleon
+- Omega Layers
+- Crypto Clickers
+- Territory Idle
+- Idle Dice
+- Grass Cutting Incremental
